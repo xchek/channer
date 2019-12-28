@@ -30,3 +30,5 @@ https_website_com-path-to-board/
 ```
 
 ### Install
+
+`pip install -r requirements.txt`

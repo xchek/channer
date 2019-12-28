@@ -28,7 +28,7 @@ dl_ct, total_dld = 0, 0
 
 def scrape_channel(url, output_parent_dir, wait_time):
   """
-  :param url: [str] -
+  :param url: [str] - URL to scrape media files from.
 
   :param wait_time: Optional[(A, B)] - A random time to wait in seconds between A and B.
 
